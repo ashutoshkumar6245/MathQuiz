@@ -1,0 +1,21 @@
+.question-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 3.125rem;
+  background-color: #f0f0f0;
+}
+
+.question {
+  font-size: 36px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.loading {
+  font-size: 24px;
+  font-weight: bold;
+  color: #666;
+  margin-bottom: 20px;
+}
